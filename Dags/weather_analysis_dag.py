@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# ...
+
 
 def compare_cities():
     # Charger le DataFrame
