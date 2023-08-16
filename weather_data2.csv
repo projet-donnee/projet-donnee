@@ -1,0 +1,7 @@
+Location,Country,LocalTime,LastUpdated,TemperatureC,TemperatureF,IsDay,Condition,UV
+Antananarivo,Madagascar,2023-08-16 15:49,2023-08-16 15:45,25.0,77.0,1,Partly cloudy,6.0
+Majunga,Madagascar,2023-08-16 15:50,2023-08-16 15:45,30.0,86.0,1,Partly cloudy,7.0
+Toliara,Madagascar,2023-08-16 15:49,2023-08-16 15:45,22.9,73.2,1,Sunny,6.0
+Foulpointe,Madagascar,2023-08-16 15:49,2023-08-16 15:45,27.0,80.6,1,Partly cloudy,7.0
+Antsirabe,Madagascar,2023-08-16 15:49,2023-08-16 15:45,20.0,68.0,1,Sunny,6.0
+Fianarantsoa,Madagascar,2023-08-16 15:49,2023-08-16 15:45,23.0,73.4,1,Sunny,6.0
